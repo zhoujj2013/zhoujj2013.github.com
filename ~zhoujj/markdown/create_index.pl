@@ -25,7 +25,7 @@ foreach my $k (sort keys %h){
 	foreach my $l (@{$h{$k}}){
 		my $str = $l;
 		$str =~ s/_/ /g;
-		print $str,"\n";
+		#print $str,"\n";
 		my $name = $1 if($str =~ /-(.*)\.html/);
 		print "+ [$name]($l)\n";
 	}
