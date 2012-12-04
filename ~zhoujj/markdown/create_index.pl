@@ -23,7 +23,10 @@ foreach my $k (sort keys %h){
 
 	print "### $k\n\n";
 	foreach my $l (@{$h{$k}}){
-		my $name = $1 if($l =~ /-(\S+)\.html/);
+		my $str = $l;
+		$str =~ s/_/ /g;
+		print $str,"\n";
+		my $name = $1 if($str =~ /-(.*)\.html/);
 		print "+ [$name]($l)\n";
 	}
 	print "\n";
