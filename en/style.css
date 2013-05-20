@@ -490,45 +490,18 @@ body {
 	float: left;
 	width: 308px;
 }
-#body .services #classify_l a:link{
-	color: #2a4f5e;
-	text-decoration:none;
-}
-#body .services #classify_l a:hover{
-	color: red;
-	text-decoration:underline;
-}
-
 #body .services #classify_m{
 	margin-left: 2px;
 	float: left;
 	clear: none;
 	width: 308px;
 }
-#body .services #classify_m a:link{
-	color: #2a4f5e;
-	text-decoration:none;
-}
-#body .services #classify_m a:hover{
-	color: red;
-	text-decoration:underline;
-}
-
 #body .services #classify_r{
 	margin-left: 2px;
 	float: left;
 	clear: right;
 	width: 308px;
 }
-#body .services #classify_r a:link{
-	color: #2a4f5e;
-	text-decoration:none;
-}
-#body .services #classify_r a:hover{
-	color: red;
-	text-decoration:underline;
-}
-
 #body .services #classify_l h4 {
 	color: #2a4f5e;
 	font-size: 16px;
@@ -592,18 +565,7 @@ body {
 }
 #body .services div div img {
 	float: left;	
-	padding: 0 0 0 0;
-}
-
-#body .services div ol li{
-	color: #5d5d5d;
-	font-size: 14px;
-	padding: 5px 0;
-}
-#body .services div h4{
-	color: #5d5d5d;
-	font-size: 18px;
-	padding: 5px 0;
+	padding: 0 10px 0 0;
 }
 #body .services div div p {
 	padding: 0 30px 0 0;
@@ -795,32 +757,30 @@ body {
 	color: #818a8c;	
 	float: left;
 }
-#footer div a.weibo,
-#footer div a.linkedin {
+#footer div a.facebook,
+#footer div a.twitter {
 	display: block;
 	float: left;
-	height: 32px;
+	height: 27px;
 	margin: 10px 0 0;
 	text-indent: -99999em;
 	width: 40px;	
 }
-#footer div a.weibo{
-	background: url(images/weibo.png) no-repeat;
+#footer div a.facebook,
+#footer div a.twitter {
+	background: url(images/icons.gif) no-repeat;
+	float: left;
 }
-
-#footer div a.linkedin {
-	background: url(images/linkedin.jpg) no-repeat;
-}
-#footer div a.weibo {
+#footer div a.facebook {
 	background-position: 0 0;
 	margin: 10px 0 0 105px;
 	_margin: 10px 0 0 28px;
 }
-#footer div a.linkedin {
-	background-position: 0 0;
+#footer div a.twitter {
+	background-position: 0 -37px;
 }
 #footer div p {
-	color: black;
+	color: #c1c1c1;
 	font-size: 12px;
 	margin: 0;
 	padding: 0 0 30px 0;

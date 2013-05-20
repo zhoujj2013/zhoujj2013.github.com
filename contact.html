@@ -1,54 +1,44 @@
 ﻿<!DOCTYPE html>
-<!-- Template amended by zhoujj2013@gmail.com -->
 <html>
 <head>
-<meta charset=utf-8 />
-<title>周易数据-主页</title>
+<meta charset="utf-8" />
+<title>周易数据-联系我们</title>
 <link rel="stylesheet" type="text/css" href="style.css" media="all" />
+<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.4&services=true"></script>
 </head>
 <body>
 	<div id="header">
 			<div id="logo">
-				<a href="index.html"><img src="images/logo.gif" alt="" /></a>		
+				<a href="index.html"><img src="images/logo.gif" alt="" /></a>			
 			</div>		
 			<ul>
-				<li class="selected"><a href="index.html"><span>主页</span></a></li>
+				<li><a href="index.html"><span>主页</span></a></li>
 				<li><a href="about.html"><span>公司简介</span></a></li>
 				<li><a href="services.html"><span>数据服务</span></a></li>
 				<li><a href="products.html"><span>产品介绍</span></a></li>
-				<li><a href="contact.html"><span>联系我们</span></a></li>			
+				<li  class="selected"><a href="contact.html"><span>联系我们</span></a></li>			
 			</ul>
 	</div>
 	<div id="body">
-		<div class="header">
-			<div>
+		<div class="contact">
+			<h1>联系我们</h1>
+			<p>我们的成员散布在北京、广州、深圳和香港，因为对数据分析的充满热情而聚在一起，为客户提供优质的数据分析服务。</p>	
+			<div id="char">	
+			<h3>联系电话：</h3>
 				<ul>
-					<li><img src="images/h_left.gif" alt="" /></li>	
-					<li><img src="images/h_middle.gif" alt="" /></li>
-					<li><img src="images/h_right.gif" alt="" /></li>		
-				</ul>		
-				<div>
-					<h3>周易数据团队致力于生物信息数据处理、数据挖掘、数据可视化及提供大数据分析解决方案，是生物信息分析领域的新生团队。</h3>
-					<h3>我们竭诚为您提供优质的数据分析服务，搭建灵活、快速的数据分析平台。</h3>
-				</div>
-			</div>
-		</div>
-		<div class="info">
-			<div class="product">
-				<h3>产品发布</h3>
-				<ul>
-					<li>差异表达基因分析方案</li>
+					<li>Tel: +86 13418807424（深圳）</li>
+					<li>Tel: +852 5983 9217 （香港）</li>
+					<li>联系人：陆小姐</li>
 				</ul>
-			</div>	
-			<div class="news">
-				<h3>团队新闻</h3>
+			<h3>邮箱地址：</h3>
 				<ul>
-					<li>团队成员参观深圳超算中心</li>
+					<li>zyxdata@163.com</li>
+					<li>联系人：陆小姐</li>
 				</ul>
 			</div>
+			<div style="width:480px;height:320px;border:#ccc solid 1px;" id="dituContent"></div>
 		</div>
 	</div>
-	
 	<div id="footer">
 		<div>
 			<div>
@@ -68,11 +58,13 @@
 				<h3>关注我们：</h3>
 				<a class="weibo" href="http://weibo.com/u/3235766920" target="_blank">weibo</a>
 				<a class="linkedin" href="http://www.linkedin.com/pub/iching-data/71/85a/711" target="_blank">linkedin</a>
-			</div>
+			</div>	
 		</div>
 		<div>
 			<p>&copy Copyright 2013-2014 周易数据. All rights reserved</p>
 		</div>
 	</div>
 </body>
+	<!--load baidu map-->
+	<script type="text/javascript" src="./js/cn_map.js"></script>
 </html>
