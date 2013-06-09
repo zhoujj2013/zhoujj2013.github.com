@@ -93,9 +93,11 @@ padding : 15px 0 0 0;
 .left ul{
 	padding: 10px 0px 10px 15px;
 	margin-left: 10px;
+	list-style: none;
 }
 .left li{
 	padding: 5px 0px 5px 0px;
+	list-style-type: square;
 }
 .right {
 width: 225px;
