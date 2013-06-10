@@ -80,10 +80,11 @@ width: 758px;
 float: left;
 text-align: justify;
 }
+
 .left h3 {
-font-size: 18px;
+font-size: 16px;
 letter-spacing: 0px;
-padding : 15px 0 0 0;
+padding : 10px 0 0 0;
 }
 
 .left p{
