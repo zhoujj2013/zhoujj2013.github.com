@@ -1,4 +1,4 @@
 zhoujj2013.github.com
 =====================
 
-ichingdata, inc. && zhoujj's home page
+zhoujj's home page
