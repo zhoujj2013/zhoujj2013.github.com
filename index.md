@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 欢迎参与滚数据
 ---
 {% include JB/setup %}
 
