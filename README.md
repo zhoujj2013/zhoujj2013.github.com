@@ -44,6 +44,8 @@ Time | Where | what I do
 
 - vim
 
+- [markdown](https://guides.github.com/features/mastering-markdown/)
+
 - R
 
 - sklearn
