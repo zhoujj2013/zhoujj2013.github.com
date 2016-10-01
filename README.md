@@ -16,7 +16,7 @@ Time | Where | what I do
  
 ### What I focus on
 
-- RNAseq
+- [RNAseq](https://github.com/zhoujj2013/zhoujj2013.github.io/tree/master/rnaseq)
 
 - Chipseq
 
