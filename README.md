@@ -35,21 +35,36 @@ Time | Where | what I do
 ### Tech
 
 - python
-
+ - [Python Numpy Tutorial from stanford](http://cs231n.github.io/python-numpy-tutorial/)
+ 
 - perl
-
+ - [Perl语言入门](http://ishare.iask.sina.com.cn/f/33584742.html)
+ - [one line perl](http://www.unixguide.net/unix/perl_oneliners.shtml)
+ 
 - awk
-
+ - [AWK 简明教程](http://coolshell.cn/articles/9070.html)
+ 
 - sed
-
+ - [sed 简明教程](http://coolshell.cn/articles/9104.html)
+ 
 - vim
+ - [简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html)
+ - [无插件Vim编程技巧](http://coolshell.cn/articles/11312.html)
 
-- [markdown](https://guides.github.com/features/mastering-markdown/)
+- markdown
+ - [makedown project](http://daringfireball.net/projects/markdown/)
+ - [github markdown](https://guides.github.com/features/mastering-markdown/)
+ - [jekyll](https://jekyllrb.com): an editor for generating small website.
 
 - R
+ - [Quick R](http://www.statmethods.net)
 
 - sklearn
-
+ - [sklearn home](http://scikit-learn.org/stable/)
+ 
+- Latex
+ - [CUHK classes](http://www.cse.cuhk.edu.hk/~yclaw/ipl_latex/)
+ 
 ### Contact
 
 zhoujj2013@gmail.com
