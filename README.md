@@ -20,10 +20,14 @@ Time | Where | what I do
  - [IGV.js](https://github.com/igvteam/igv.js)
  - [UCSC box](https://genome-store.ucsc.edu/)
  
-- [RNAseq](https://github.com/zhoujj2013/zhoujj2013.github.io/tree/master/rnaseq)
-
+- RNAseq
+ - [RNAseq notes](https://github.com/zhoujj2013/zhoujj2013.github.io/tree/master/rnaseq)
+ - [An example](https://github.com/zhoujj2013/zhoujj2013.github.io/tree/master/rnaseq/example.md)
+ 
 - Chipseq
-
+ - [ChIPseq notes](https://github.com/zhoujj2013/zhoujj2013.github.io/tree/master/chipseq)
+ - [An example](https://github.com/zhoujj2013/zhoujj2013.github.io/tree/master/chipseq/example.md)
+ 
 - DNaseseq
 
 - Diagnosis
