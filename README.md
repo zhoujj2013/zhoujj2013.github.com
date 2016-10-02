@@ -16,6 +16,10 @@ Time | Where | what I do
  
 ### What I focus on
 
+- gbrowser
+ - [IGV.js](https://github.com/igvteam/igv.js)
+ - [UCSC box](https://genome-store.ucsc.edu/)
+ 
 - [RNAseq](https://github.com/zhoujj2013/zhoujj2013.github.io/tree/master/rnaseq)
 
 - Chipseq
