@@ -14,7 +14,7 @@ a bridge along the shortest path between two other nodes.
 
 - Closeness centrality
 
-In a connected graph, the normalized closeness centrality (or closeness) of a node is the average 
+  In a connected graph, the normalized closeness centrality (or closeness) of a node is the average 
 length of the shortest path between the node and all other nodes in the graph. Thus the more central 
 a node is, the closer it is to all other nodes.
 
