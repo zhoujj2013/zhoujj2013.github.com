@@ -72,6 +72,7 @@ Time | Where | what I do
  
 - Latex
  - [CUHK classes](http://www.cse.cuhk.edu.hk/~yclaw/ipl_latex/)
+ - [tutorial latex](https://www.latex-tutorial.com/tutorials/)
  
 ### Contact
 
