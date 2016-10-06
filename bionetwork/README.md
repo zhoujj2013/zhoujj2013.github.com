@@ -2,7 +2,7 @@
 
 ### network characteristic
 
-![network characteristic](https://upload.wikimedia.org/wikipedia/commons/1/11/6_centrality_measures.png)
+![network characteristic](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/6_centrality_measures.png/320px-6_centrality_measures.png)
 
 Examples of A) Betweenness centrality, B) Closeness centrality, C) Eigenvector centrality, D) Degree centrality, E) Harmonic Centrality and F) Katz centrality of the same graph.
 
