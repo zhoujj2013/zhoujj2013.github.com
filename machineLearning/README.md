@@ -1,5 +1,7 @@
 ## Machine learning materials
 
+  http://www.astroml.org/sklearn_tutorial/general_concepts.html
+
 ### Machine learning cheat sheet
 
   https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/
