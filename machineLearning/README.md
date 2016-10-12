@@ -3,7 +3,8 @@
 ### Machine learning cheat sheet
 
   https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/
-
+  
+  https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/
 
 ### Data preparation
 
