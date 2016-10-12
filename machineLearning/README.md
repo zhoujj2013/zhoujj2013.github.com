@@ -4,6 +4,7 @@
 
   https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/
 
+
 ### Data preparation
 
 - L1 and L2 normalization
