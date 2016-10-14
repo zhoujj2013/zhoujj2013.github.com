@@ -12,3 +12,5 @@ http://sebastianraschka.com/Articles/heatmaps_in_r.html
 
 http://www2.warwick.ac.uk/fac/sci/moac/people/students/peter_cock/r/heatmap/
 
+http://www.programiz.com/r-programming/
+
