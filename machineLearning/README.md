@@ -7,6 +7,8 @@
   https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/
   
   https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/
+  
+  http://scikit-learn.org/stable/tutorial/machine_learning_map/
 
 ### Data preparation
 
