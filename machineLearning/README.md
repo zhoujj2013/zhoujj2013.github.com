@@ -1,6 +1,8 @@
 ## Machine learning materials
 
   http://www.astroml.org/sklearn_tutorial/general_concepts.html
+  
+  http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
 
 ### Machine learning cheat sheet
 
