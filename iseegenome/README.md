@@ -1,6 +1,6 @@
 ## I see genome
 
-=====
+------
 
 ### genome annotation
 
