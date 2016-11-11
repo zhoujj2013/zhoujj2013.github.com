@@ -12,5 +12,15 @@
   
   http://www.nature.com/nsmb/journal/v22/n1/full/nsmb.2921.html
   
+  http://www.nature.com/nsmb/journal/v23/n3/full/nsmb.3176.html
+  
+### Analysis pipeline
+
+  https://github.com/bdo311/chirpseq-analysis
+  
+### Develop a new chirp pipeline
+
+  
+  
   
  
