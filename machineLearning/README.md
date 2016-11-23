@@ -31,3 +31,26 @@
   https://github.com/aldro61/pu-learning/tree/master/src
 
 
+### SVM
+  
+  explain SVM
+  
+  http://blog.csdn.net/v_july_v/article/details/7624837
+
+  http://blog.csdn.net/abcjennifer/article/details/7849812
+  
+  SVM probability
+  
+  http://scikit-learn.org/stable/modules/svm.html#scores-probabilities
+  
+  learning curve
+  
+  http://stats.stackexchange.com/questions/149153/training-data-set-size-and-svm-classifier
+  
+  http://scikit-learn.org/stable/auto_examples/feature_selection/plot_permutation_test_for_classification.html
+  
+  http://www.work.caltech.edu/~htlin/program/libsvm/
+  
+  http://stats.stackexchange.com/questions/55072/svm-confidence-according-to-distance-from-hyperline
+  
+  
