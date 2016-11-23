@@ -53,4 +53,4 @@
   
   http://stats.stackexchange.com/questions/55072/svm-confidence-according-to-distance-from-hyperline
   
-  
+  http://pan.baidu.com/s/1eQrgiOU
