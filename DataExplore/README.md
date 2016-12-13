@@ -14,3 +14,7 @@ http://www2.warwick.ac.uk/fac/sci/moac/people/students/peter_cock/r/heatmap/
 
 http://www.programiz.com/r-programming/
 
+### good books
+
+http://genomicsclass.github.io/book/
+
