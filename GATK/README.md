@@ -3,6 +3,7 @@ Valid annotation:
 Standard annotations in the list below are marked with a '*'.
 
 Available annotations for the VCF INFO field:
+
         AS_BaseQualityRankSumTest
         AS_FisherStrand
         AS_InbreedingCoeff
@@ -48,6 +49,7 @@ Available annotations for the VCF INFO field:
 
 
 Available annotations for the VCF FORMAT field:
+
         AlleleBalanceBySample
         AlleleCountBySample
         BaseCountsBySample
@@ -61,6 +63,7 @@ Available annotations for the VCF FORMAT field:
 
 
 Available classes/groups of annotations:
+
         AS_RMSAnnotation
         AS_RankSumTest
         AS_StandardAnnotation
