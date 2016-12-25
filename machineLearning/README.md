@@ -54,3 +54,13 @@
   http://stats.stackexchange.com/questions/55072/svm-confidence-according-to-distance-from-hyperline
   
   http://pan.baidu.com/s/1eQrgiOU
+  
+### Torch
+
+  https://github.com/soumith/cvpr2015/blob/master/Deep%20Learning%20with%20Torch.ipynb
+  
+  http://blog.csdn.net/u010946556/article/details/51395648
+  
+  http://dataunion.org/11692.html
+  
+  
