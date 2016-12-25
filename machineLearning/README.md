@@ -63,4 +63,4 @@
   
   http://dataunion.org/11692.html
   
-  
+  https://github.com/torch/torch7/wiki/Cheatsheet
