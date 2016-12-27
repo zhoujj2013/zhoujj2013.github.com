@@ -64,3 +64,11 @@
   http://dataunion.org/11692.html
   
   https://github.com/torch/torch7/wiki/Cheatsheet
+  
+### tensorflow
+
+  http://tensorlayercn.readthedocs.io/zh/latest/user/installation.html
+  
+  http://blog.csdn.net/qiexingqieying/article/details/51734347
+  
+  
