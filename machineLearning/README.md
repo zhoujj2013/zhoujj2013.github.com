@@ -72,3 +72,7 @@
   http://blog.csdn.net/qiexingqieying/article/details/51734347
   
   http://www.tuicool.com/articles/jURv2a
+  
+  http://wiki.jikexueyuan.com/project/tensorflow-zh/get_started/introduction.html
+  
+  
