@@ -65,6 +65,8 @@
   
   https://github.com/torch/torch7/wiki/Cheatsheet
   
+  http://www.cnblogs.com/neopenx/p/4453161.html
+  
 ### tensorflow
 
   http://tensorlayercn.readthedocs.io/zh/latest/user/installation.html
