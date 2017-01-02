@@ -83,4 +83,14 @@
   
   https://github.com/tencia/stocks_rnn
   
+  Some paper in biology:
+  
+  http://www.cell.com/cell-systems/pdf/S2405-4712(16)00010-7.pdf
+  
+  http://msb.embopress.org/content/12/7/878
+  
+  http://www.nature.com/nbt/journal/v33/n8/full/nbt.3300.html
+  
+  https://cs224d.stanford.edu/reports/jessesz.pdf
+  
   
