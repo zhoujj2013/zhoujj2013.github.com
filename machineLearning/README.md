@@ -93,4 +93,4 @@
   
   https://cs224d.stanford.edu/reports/jessesz.pdf
   
-  
+  https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
