@@ -77,4 +77,10 @@
   
   http://wiki.jikexueyuan.com/project/tensorflow-zh/get_started/introduction.html
   
+  Finance:
+  
+  https://smist08.wordpress.com/all-articles/
+  
+  https://github.com/tencia/stocks_rnn
+  
   
