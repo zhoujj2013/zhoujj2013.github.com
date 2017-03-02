@@ -1,3 +1,9 @@
+## Course
+
+  http://holehouse.org/mlclass/06_Logistic_Regression.html
+  
+  http://cs231n.github.io/
+
 ## Machine learning materials
 
   http://www.astroml.org/sklearn_tutorial/general_concepts.html
