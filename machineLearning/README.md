@@ -103,4 +103,7 @@
   
   http://keras-cn.readthedocs.io/en/latest/getting_started/functional_API/
   
+  https://github.com/fchollet/keras/tree/master/examples
+  
+  
   
