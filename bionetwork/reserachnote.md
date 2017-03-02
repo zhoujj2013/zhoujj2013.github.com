@@ -1,3 +1,7 @@
+## basic theory
+
+  http://epubs.siam.org/doi/pdf/10.1137/S003614450342480
+
 ## centrality of nodes (some papers)
 
   http://www.centiserver.org/
