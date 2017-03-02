@@ -94,3 +94,13 @@
   https://cs224d.stanford.edu/reports/jessesz.pdf
   
   https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
+  
+  ### keras (quick deep learning)
+  
+  http://keras-cn.readthedocs.io/en/latest/getting_started/concepts/
+  
+  http://keras-cn.readthedocs.io/en/latest/getting_started/sequential_model/
+  
+  http://keras-cn.readthedocs.io/en/latest/getting_started/functional_API/
+  
+  
