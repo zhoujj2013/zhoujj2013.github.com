@@ -95,7 +95,7 @@
   
   https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
   
-  ### keras (quick deep learning)
+### keras (quick deep learning)
   
   http://keras-cn.readthedocs.io/en/latest/getting_started/concepts/
   
