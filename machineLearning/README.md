@@ -31,6 +31,8 @@
   http://scikit-learn.org/stable/modules/model_evaluation.html
   
   http://www.chioka.in/differences-between-roc-auc-and-pr-auc/
+  
+  http://www.chioka.in/class-imbalance-problem/
 
 ### PU learning
 
