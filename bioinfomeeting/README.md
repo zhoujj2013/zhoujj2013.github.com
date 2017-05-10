@@ -2,6 +2,11 @@
 
 (Ordered by submission deadline for papers in the conference)
 
+## 2018
+
++ [Noncoding RNAs: Form, Function, Physiology](http://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1540) in February 25—March 1, 2018
+Keystone Resort, Keystone, Colorado, USA
+
 ## 2017
 
 + SODA 2017 (roughly January)
@@ -21,7 +26,4 @@
 + FOCS 2017 (roughly October)
 + RECOMB-CG October 4-6, 2017
 
-## 2018
 
-+ [Noncoding RNAs: Form, Function, Physiology](http://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1540) in February 25—March 1, 2018
-Keystone Resort, Keystone, Colorado, USA
