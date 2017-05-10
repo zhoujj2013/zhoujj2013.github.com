@@ -6,6 +6,9 @@
 
 [Keystone Symposia](http://www.keystonesymposia.org/)
 
+[CSH-ASIA](http://www.csh-asia.org/Meetings.html)
+
+
 
 ## 2017
 
@@ -15,6 +18,8 @@
 + [Evolution 2017](http://www.evolutionmeetings.org/evolution-2017---portland-oregon.html), Portland OR, June 23-27
 + [ISMB/ECCB 2017](https://www.iscb.org/ismbeccb2017), Prague, July 21-25
 + [ACM-BCB and WABI 2017](http://acm-bcb.org/2017/index.php), Boston MA, Aug 21-24. Deadline for ACM-BCB April 10. Deadline for WABI May 5.
++ [BIBM 2017](http://muii.missouri.edu/bibm2017/) Kansan City, MO, USA November 13 - 16, 2017
++ [ASHG 2017](https://www.ashg.org/2017meeting/) ORLANDO, OCT. 17-21, 2017
 
 ## 2018
 
