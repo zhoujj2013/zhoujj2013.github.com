@@ -39,4 +39,8 @@ of links incident upon a node (i.e., the number of ties that a node has).
   Katz centrality[19] is a generalization of degree centrality. Degree centrality measures the number 
 of direct neighbors, and Katz centrality measures the number of all nodes that can be connected through 
 a path, while the contributions of distant nodes are penalized.
-  
+
+
+http://visjs.org/index.html
+
+
