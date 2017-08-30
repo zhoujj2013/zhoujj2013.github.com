@@ -4,6 +4,10 @@ This my home page in github.
 
 I will list what I focus on.
 
+### Publication
+
+https://www.ncbi.nlm.nih.gov/pubmed/?term=Jiajian+ZHOU
+
 ### Table
 
 Time | Where | what I do
