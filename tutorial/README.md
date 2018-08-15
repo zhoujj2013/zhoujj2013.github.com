@@ -1,6 +1,6 @@
 # Tutorial for the fresh labmate
 
-> This material prepare for fresh bioinformatics student.
+> These materials were prepared for fresh bioinformatics students.
 
 ## Biology
 
@@ -36,3 +36,11 @@ More studies:
 [ENCODE project](http://www.nature.com/encode/#/threads)
 
 [Epigenome roadmap project](http://www.nature.com/collections/vbqgtr/)
+
+## Additional Resources
+
+[Illumina dna sequencing](https://www.illumina.com/content/dam/illumina-marketing/documents/products/research_reviews/dna-sequencing-methods-review-web.pdf)
+
+[Illumina rna sequencing](https://www.illumina.com/content/dam/illumina-marketing/documents/products/research_reviews/rna-sequencing-methods-review-web.pdf)
+
+
