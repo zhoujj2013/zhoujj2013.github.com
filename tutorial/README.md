@@ -37,6 +37,12 @@ More studies:
 
 [Epigenome roadmap project](http://www.nature.com/collections/vbqgtr/)
 
+## Research
+
+### lncRNAs
+
+### Enhancer and Super-enhancer
+
 ## Additional Resources
 
 [Illumina dna sequencing](https://www.illumina.com/content/dam/illumina-marketing/documents/products/research_reviews/dna-sequencing-methods-review-web.pdf)
