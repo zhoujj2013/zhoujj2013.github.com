@@ -1,7 +1,5 @@
 # Tutorial for the fresh labmate
 
--------
-
 > This material prepare for fresh bioinformatics student.
 
 ## Biology
