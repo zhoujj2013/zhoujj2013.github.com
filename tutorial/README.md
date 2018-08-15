@@ -39,7 +39,7 @@ More studies:
 
 ## Research
 
-### lncRNAs
+### Long noncoding RNAs
 
 ### Enhancer and Super-enhancer
 
