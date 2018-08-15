@@ -7,6 +7,7 @@
 [Gene XI Part 1](https://ms2016asab.files.wordpress.com/2016/09/lewins-genes-xi.pdf)
 
 > This book contains many things, please go through part 1 only.
+> You also can read gene XIII in library.
 
 ## Linux, Perl and Python
 
