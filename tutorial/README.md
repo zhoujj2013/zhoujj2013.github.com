@@ -1,18 +1,22 @@
-# Tutorial for flesh labmate
+# Tutorial for the fresh labmate
 
 -------
 
-> This material prepare for flesh bioinformatics student.
+> This material prepare for fresh bioinformatics student.
 
 ## Biology
 
 [Gene XI Part 1](https://ms2016asab.files.wordpress.com/2016/09/lewins-genes-xi.pdf)
 
-> This book conain many things, please go through part 1 only.
+> This book contains many things, please go through part 1 only.
 
 ## Linux, Perl and Python
 
-[Linux tutorial]()
+[Linux tutorial](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
+
+[Beginning perl](http://www.perl.org/books/beginning-perl/)
+
+[Python tutorial](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 ## Next generation sequencing
 
@@ -33,5 +37,3 @@ More studies:
 [ENCODE project](http://www.nature.com/encode/#/threads)
 
 [Epigenome roadmap project](http://www.nature.com/collections/vbqgtr/)
-
-### 
